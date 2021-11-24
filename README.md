@@ -1,7 +1,11 @@
 # Eyes
+<img src="Eyes.png" width'300'/>
+
+## Description of Project
 This is an exercise to show eyes moving in response to your mouse's cursor moving across the desktop.
 How to Run: In order to run this file, download all the files to a singular location. Open a browser window and drag the index.html file to the window and begin interacting with the code. Roadmap: Currently, there are no intentions to improve or revisit this project, however, you can edit the code to add more eyes to the screen and watch multiple eyes move at once. 
 
+## License Information
 LICENSE: MIT License
 
 Copyright (c) 2020 John Williams
