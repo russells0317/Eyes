@@ -1,5 +1,5 @@
 # Eyes
-<img src="Eyes.png" width'300'/>
+<img src= "Eyes.png" />
 
 ## Description of Project
 This is an exercise to show eyes moving in response to your mouse's cursor moving across the desktop.
